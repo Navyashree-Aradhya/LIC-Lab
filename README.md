@@ -232,7 +232,8 @@ Here the input is started from 1V to 1.0494V. Therefore The maximum input swing 
 <br>
 
 3.AC analysis:\
- ![Image](https://github.com/user-attachments/assets/c4981b32-a038-4c58-bfd8-53ccbdce238b)
+ ![Screenshot (41)](https://github.com/user-attachments/assets/4480c88e-ffeb-4c05-b7ea-5c20d4172cce)
+
   * 3dB Gain= 16.5dB
   * 3dB gain bandwidth = 0 to 3.90GHz.
      * CMRR = Differential gain (g<sub>m</sub>R<sub>D</sub>) / Common mode gain (V<sub>out</sub>/V<sub>incm</sub>) = 12.54.
@@ -290,7 +291,8 @@ Resistors (3.6kohm) - 2, NMOSFET - 3, supply volatges(2V and 1V) - 3, ac ground,
 
 ### Simulation Result :
 1.DC analysis:\
-![Image](https://github.com/user-attachments/assets/9d6da6ae-5adb-4ae8-8c41-7ecd546bfd4b)
+![Screenshot (42)](https://github.com/user-attachments/assets/b7685a04-48e1-4dfe-8dce-2bb8d3605105)
+
 ![Image](https://github.com/user-attachments/assets/847d8ae1-9183-4816-b2f4-aedf1f4f79f7)
 
 * V<sub>out1</sub> = V<sub><out2</sub> = 1.1V.
